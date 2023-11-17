@@ -1,0 +1,7 @@
+{
+  "name": "swipe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
